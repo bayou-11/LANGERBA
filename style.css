@@ -1,0 +1,168 @@
+.img
+{
+  background-color: #003C5A;
+  position: fixed; z-index: 10;
+}
+ ul
+{
+  font-size: 1.3em;
+  margin-left: 40px;
+  color: white;
+}
+ul a:hover
+{
+
+}
+.navbar-nav
+{
+  padding-left: 10em;
+  padding-top: ;
+}
+.navbar-brand
+{
+  font-size: 2em;
+}
+.image5
+{
+  background-color: #272727;
+}
+.foot
+{
+  font-size: 0.8em;
+}
+#nav
+{
+  padding-left: 10em;
+}
+#stud
+{
+  font-family: merriweather,serif;
+  color: black;
+}
+#ever
+{
+  font-family: merriweather,serif;
+  color: gray;
+}
+#the
+{
+  font-family: merriweather,serif;
+  color: gray;
+  font-size: 1em;
+}
+#regi
+{
+    background-color: #E76E33;
+    display: inline-block;
+    font-size: 1em;
+    border-radius: 3em;
+    padding: 10px 10px;
+    text-decoration: none;
+    width: 210px;
+    text-align: center;
+    font-family: merriweather,serif;
+}
+#regi a
+{
+  text-decoration: none;
+  color: white;
+}
+.image
+{
+  background-image: url("./img/menu1.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+
+}
+#h1
+{
+  color: white;
+  font-family: merriweather,serif;
+  font-size: 3em;
+  
+}
+#learn
+{
+  color: wheat;
+  font-family: merriweather,serif;
+  font-size: 1.1em;
+}
+#connect
+{
+    background-color: #E76E33;
+    display: inline-block;
+    font-size: 1em;
+    border-radius: 3em;
+    padding: 15px 15px;
+    text-decoration: none;
+    width: 210px;
+    font-family: merriweather,serif;
+    
+}
+#connect a
+{
+  text-decoration: none;
+  color: white;
+}
+#fname
+{
+  width: 370px;
+  padding: 10px 10px;
+  border-radius: 3em;
+}
+#want
+{
+    background-color: #E76E33;
+    display: inline-block;
+    font-size: 1em;
+    border-radius: 3em;
+    padding: 15px 15px;
+    text-decoration: none;
+    width: 210px;
+    font-family: merriweather,serif;
+    
+}
+#want a
+{
+  text-decoration: none;
+  color: white;
+}
+.image1
+{
+  background-color: #EDF4F8;
+}
+.text
+{
+  padding-top: 200px;
+}
+p
+{
+  font-family: merriweather,serif;
+  font-size: 1em;
+}
+.image2
+{
+  background-color: #EDF4F8;
+}
+.image3
+{
+  background-color: #003C5A;
+  height: 65%;
+}
+.image4
+{
+  background-color: #E76E33;
+  height: auto;
+}
+.center
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+  height: auto;
+}
+
